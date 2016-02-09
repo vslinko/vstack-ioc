@@ -15,7 +15,6 @@
     "test": "jest -i"
   },
   "dependencies": {
-    "bluebird": "^3.2.2",
     "dep-graph": "^1.1.0"
   },
   "devDependencies": {
